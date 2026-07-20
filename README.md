@@ -98,11 +98,11 @@ SQL was used to:
 
 ### Sales Overview
 
-![Sales Overview](images/dashboard_page1.png)
+![Sales Overview](dashboard/dashboard_page1.png)
 
 ### Product Performance
 
-![Product Performance](images/dashboard_page2.png)
+![Product Performance](dashboard/dashboard_page2.png)
 
 ---
 
@@ -121,7 +121,8 @@ Pizza-Sales-Dashboard/
 │   ├── dashboard_page1.png
 │   └── dashboard_page2.png
 │
-├── Pizza Sales Dashboard.pbix
+├── powerbi/
+|   ├──Pizza Sales Dashboard.pbix
 ├── README.md
 └── LICENSE
 ```

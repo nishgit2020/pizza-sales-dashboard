@@ -23,6 +23,11 @@ The dataset contains transaction-level pizza sales information, including:
 - Total Price
 - Ingredients
 
+## Dataset
+
+A sample dataset is included in this repository for demonstration purposes.
+The original dataset contains additional records and was used to build the complete dashboard.
+
 ---
 
 ## Tools & Technologies
